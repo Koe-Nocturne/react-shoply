@@ -31,3 +31,7 @@
 .card .card-title {
   font-size: 4em;
 }
+
+.btn {
+  margin: 5px;
+}
